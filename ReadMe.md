@@ -106,8 +106,8 @@ project/
 ## Installation
 
 ### Clone repository
-   git clone https://github.com/your-username/ai-delivery-system.git
-   cd ai-delivery-system
+   - git clone https://github.com/your-username/ai-delivery-system.git
+   - cd ai-delivery-system
 
 ### Install dependencies
     pip install matplotlib
