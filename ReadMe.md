@@ -77,17 +77,17 @@ The goal is to:
 
 ## Project Structure
 
-project/
-│
-├── main_gui.py # Tkinter interface
-├── main.py # Algorithm runner
-├── package.py # Package model
-├── vehicle.py # Vehicle model
-├── simulated_annealing.py
-├── genetic_algorithm.py
-├── utils.py
-│
-└── visualization (matplotlib)
+ - project/
+ - │
+ - ├── main_gui.py # Tkinter interface
+ - ├── main.py # Algorithm runner
+ - ├── package.py # Package model
+ - ├── vehicle.py # Vehicle model
+ - ├── simulated_annealing.py
+ - ├── genetic_algorithm.py
+ - ├── utils.py
+ - │
+ - └── visualization (matplotlib)
 
 
 ---
