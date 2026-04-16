@@ -1,4 +1,4 @@
-from utils import euclidean_distance  # تأكد من وجود هذا الاستيراد
+from utils import euclidean_distance  
 
 class Vehicle:
     def __init__(self, capacity):
